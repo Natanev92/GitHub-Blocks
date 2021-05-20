@@ -1,0 +1,44 @@
+h1{text-align: center;}
+
+body{
+    
+    align-content: space-between;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.topbar{
+    display: flex;
+    background-color: blue;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 10px;
+}
+
+.midbar{
+    background-color: crimson;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 10px;
+}
+
+.bottombar{
+    background-color: darkgreen;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 10px;
+}
+.links{
+    text-align: center;
+}
+
+
+
+img{
+    height: 180px;
+}
